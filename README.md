@@ -1,5 +1,5 @@
 # Hi! I'm Fouad
-I’m an aspiring software engineer exploring different areas of tech, from software development, data, and  AI/ML.<br>Right now, I’m focused on building a strong foundation in programming and experimenting with projects that help me understand how technology can solve real-world problems.
+I’m a Tech Enthusiast exploring different areas of technology, from software development, data science, and  AI/ML.<br>Right now, I’m focused on building a strong foundation in programming and experimenting with projects that help me understand how technology can solve real-world problems.
 
 
 ##  Socials:
